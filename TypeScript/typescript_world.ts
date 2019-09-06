@@ -1,3 +1,4 @@
 // TypeScript Hello World program
 // Maren Luper
-alert('Hello world!');
+let message : string = "Hello world!";
+console.log(message);
